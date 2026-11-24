@@ -1,16 +1,14 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:0d9488,100:2dd4bf&height=170&section=header&text=Shortest%20Job%20First&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Visualiza%C3%A7%C3%A3o%20Interativa%20de%20Escalonamento%20de%20Processos%20com%20p5.js&descAlignY=65&descSize=15" width="100%" alt="Banner" />
-</div>
-
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/p5.js-ED225D?style=for-the-badge&logo=p5dotjs&logoColor=white" alt="p5.js" />
-  <img src="https://img.shields.io/badge/Sistemas%20Operacionais-SJF-0D9488?style=for-the-badge" alt="SO" />
+  <img src=".github/banner.svg" alt="Shortest Job First" width="100%" />
 </p>
 
----
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/p5.js-ED225D?style=flat-square&logo=p5dotjs&logoColor=white" alt="p5.js" />
+  <img src="https://img.shields.io/badge/Sistemas%20Operacionais-SJF-0D9488?style=flat-square" alt="SO" />
+</p>
 
-## 📖 Sobre o Projeto
+## Sobre o Projeto
 
 Visualizador gráfico em **JavaScript + p5.js** para simular e ilustrar o algoritmo de escalonamento de CPU **Shortest Job First (SJF)**, exibindo a linha do tempo de execução dos processos divididos por *quantum* em um canvas colorido.
 
@@ -18,9 +16,7 @@ Visualizador gráfico em **JavaScript + p5.js** para simular e ilustrar o algori
   <img src="Shortest_Job_First.png" alt="Visualização Shortest Job First" width="80%" />
 </p>
 
----
-
-## 📂 Estrutura do Repositório
+## Estrutura do Repositório
 
 ```text
 Shortest-Job-First/
@@ -37,9 +33,7 @@ Shortest-Job-First/
     └── libraries/
 ```
 
----
-
-## 🚀 Como Executar
+## Como Executar
 
 1. Clone o repositório:
    ```bash
